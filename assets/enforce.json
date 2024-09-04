@@ -1,0 +1,514 @@
+{
+  "enforce_slot_rate": [100, 50, 20],
+  "enforce_list": [
+    {
+      "ko": "우월코드 데미지 증가",
+      "keycode": "superior_damage",
+      "info_key": 0
+    },
+    {
+      "ko": "명중률 증가",
+      "keycode": "attack_rate",
+      "info_key": 1
+    },
+    {
+      "ko": "공격력 증가",
+      "keycode": "attack_power",
+      "info_key": 1
+    },
+    {
+      "ko": "차지 데미지 증가",
+      "keycode": "charge_damage",
+      "info_key": 1
+    },
+    {
+      "ko": "방어력 증가",
+      "keycode": "defence_power",
+      "info_key": 1
+    },
+    {
+      "ko": "최대 장탄 수 증가",
+      "keycode": "max_bullets",
+      "info_key": 2
+    },
+    {
+      "ko": "크리티컬 확률 증가",
+      "keycode": "critical_rate",
+      "info_key": 5
+    },
+    {
+      "ko": "차지 속도",
+      "keycode": "charge_speed",
+      "info_key": 3
+    },
+    {
+      "ko": "크리티컬 데미지 증가",
+      "keycode": "critical_damage",
+      "info_key": 4
+    }
+  ],
+  "enforce_info": [
+    [
+      {
+        "level": 1,
+        "number": 9.54,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 10.94,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 12.34,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 13.75,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 15.15,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 16.55,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 17.95,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 19.35,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 20.75,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 22.15,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 23.56,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 24.96,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 26.36,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 27.76,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 29.16,
+        "rate": 1
+      }
+    ],
+    [
+      {
+        "level": 1,
+        "number": 4.77,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 5.47,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 6.18,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 6.88,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 7.59,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 8.29,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 9.0,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 9.7,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 10.4,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 11.11,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 11.81,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 12.52,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 13.22,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 13.93,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 14.63,
+        "rate": 1
+      }
+    ],
+    [
+      {
+        "level": 1,
+        "number": 27.84,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 31.95,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 36.06,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 40.17,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 44.28,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 48.39,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 52.5,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 56.6,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 60.71,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 64.82,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 68.93,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 73.04,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 77.15,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 81.26,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 85.37,
+        "rate": 1
+      }
+    ],
+    [
+      {
+        "level": 1,
+        "number": 1.98,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 2.25,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 2.57,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 2.86,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 3.16,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 3.45,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 3.75,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 4.04,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 4.33,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 4.63,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 4.92,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 5.21,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 5.51,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 5.8,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 6.09,
+        "rate": 1
+      }
+    ],
+    [
+      {
+        "level": 1,
+        "number": 6.64,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 7.62,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 8.6,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 9.58,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 10.56,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 11.54,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 12.52,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 13.5,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 14.48,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 15.46,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 16.44,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 17.42,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 18.4,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 19.38,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 20.36,
+        "rate": 1
+      }
+    ],
+    [
+      {
+        "level": 1,
+        "number": 2.3,
+        "rate": 10
+      },
+      {
+        "level": 2,
+        "number": 2.64,
+        "rate": 10
+      },
+      {
+        "level": 3,
+        "number": 2.98,
+        "rate": 10
+      },
+      {
+        "level": 4,
+        "number": 3.32,
+        "rate": 10
+      },
+      {
+        "level": 5,
+        "number": 3.66,
+        "rate": 10
+      },
+      {
+        "level": 6,
+        "number": 4.0,
+        "rate": 7
+      },
+      {
+        "level": 7,
+        "number": 4.35,
+        "rate": 7
+      },
+      {
+        "level": 8,
+        "number": 4.69,
+        "rate": 7
+      },
+      {
+        "level": 9,
+        "number": 5.03,
+        "rate": 7
+      },
+      {
+        "level": 10,
+        "number": 5.37,
+        "rate": 7
+      },
+      {
+        "level": 11,
+        "number": 5.7,
+        "rate": 1
+      },
+      {
+        "level": 12,
+        "number": 6.05,
+        "rate": 1
+      },
+      {
+        "level": 13,
+        "number": 6.39,
+        "rate": 1
+      },
+      {
+        "level": 14,
+        "number": 6.73,
+        "rate": 1
+      },
+      {
+        "level": 15,
+        "number": 7.07,
+        "rate": 1
+      }
+    ]
+  ]
+}
